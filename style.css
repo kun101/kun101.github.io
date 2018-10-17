@@ -148,6 +148,48 @@ header{
     font-weight: bold;
 }
 
+.button4 {
+    background-color: white;
+    color: #ff0000; 
+    border: 2px solid #ff0000;
+    font-weight: bold;
+}
+
+.button4:hover {
+    background-image: linear-gradient(to right, #ff0000 , rgba(201, 0, 0,0.7));
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+}
+
+.button5 {
+    background-color: white;
+    color: #00a86a; 
+    border: 2px solid #00a86a;
+    font-weight: bold;
+}
+
+.button5:hover {
+    background-image: linear-gradient(to right, #00a86a , rgb(0, 255, 160));
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+}
+
+.button6 {
+    background-color: white;
+    color: #000; 
+    border: 2px solid #000;
+    font-weight: bold;
+}
+
+.button6:hover {
+    background-image: linear-gradient(to right, #000 , rgb(51, 51, 51));
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+}
+
 .text{
     padding: 5px;
     outline: none;
